@@ -1,0 +1,28 @@
+1.natural join is a join that creates an implicit join based on 
+the same column hanes in the joined tables.If each tuple has 
+schema(A,B,C,D) then answer will be (1,2,4,6).
+Answer: C
+
+
+2.The intersect function returns rows that are available in 
+seperate result sets.R and S has (2,5,3) in common.
+Answer: D
+
+3.A clustered record organizes table info, so info is questioned 
+faster of both file and info pages.So reply is Student.sID, 
+College.cName
+Answer: A
+
+4.None of the above because they dont have clear relations.
+Answer: D
+
+
+5.check lets us to check any condition.It gives you power to 
+specify that the value in a certain column has to satisfy a 
+Boolean(true) expression.In this problem we are intserting 
+values(4,4,9) and variation C does not allow us to process that 
+insert.cos the rule is that sum(b) must be <= inserting num.
+our inserting num. c is 9 and sum(b) is 4+3+3=10. 10!<=9.
+Answer: C
+
+
